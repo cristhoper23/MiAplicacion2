@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dp"
+            android:text="Android ScrollView Example"
+            android:textStyle="bold" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="Android ScrollView Example" />
+
+        <Button
+            android:id="@+id/scrollViewHorizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="ScrollViewHorizontal Example" />
+
+        <Button
+            android:id="@+id/androidButton"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="AndroidButton Example" />
+
+        <Button
+            android:id="@+id/imageButtonActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="ImageButton Example" />
+
+        <Button
+            android:id="@+id/editTextActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="EditText Example" />
+
+        <Button
+            android:id="@+id/checkBoxActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="CheckBox Example" />
+
+        <Button
+            android:id="@+id/radioButtonActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="RadioButton Example" />
+
+        <Button
+            android:id="@+id/switchButtonActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="SwitchButton Example" />
+
+        <Button
+            android:id="@+id/toggleButtonActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="ToggleButton Example" />
+
+        <Button
+            android:id="@+id/ratingBarActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="RatingBar Example" />
+
+        <Button
+            android:id="@+id/spinnerActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="SpinnerActivity Example" />
+
+        <Button
+            android:id="@+id/progressBarActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="ProgressBar Example" />
+
+        <Button
+            android:id="@+id/datePickerActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="DatePicker Example" />
+
+        <Button
+            android:id="@+id/timePickerActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="TimePicker Example" />
+
+        <Button
+            android:id="@+id/floatingActionButtonActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="FloatingActionButton Example" />
+
+        <Button
+            android:id="@+id/floatingLabelsActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="FloatingLabels Example" />
+
+        <Button
+            android:id="@+id/seekBarActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="SeekBar Example" />
+
+        <Button
+            android:id="@+id/simpleDialogActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="SimpleDialog Example" />
+
+        <Button
+            android:id="@+id/customAlertDialogActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="CustomAlertDialog Example" />
+
+        <Button
+            android:id="@+id/snackBarActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="SnackBar Example" />
+
+        <Button
+            android:id="@+id/notificationActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="Notification Example" />
+
+        <Button
+            android:id="@+id/imageViewActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="ImageView Example" />
+
+        <Button
+            android:id="@+id/videoViewActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="VideoView Example" />
+
+        <Button
+            android:id="@+id/webViewActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="WebView Example" />
+
+        <Button
+            android:id="@+id/searchViewActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="SearchView Example" />
+
+        <Button
+            android:id="@+id/calendarViewActivity"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="CalendarView Example" />
+    </LinearLayout>
+</ScrollView>
+
